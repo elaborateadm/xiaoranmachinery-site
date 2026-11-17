@@ -1,0 +1,76 @@
+/* XIAORAN: white navigation, ink blue typography and restrained safety-yellow accents. */
+:root{--ink:#143754;--blue:#123e63;--orange:#efbd39;--gold:#efbd39;--paper:#f8fafc;--line:#dbe5ec}
+body{color:#183b57;background:#f9fbfd}
+body>header:not(.header),body.nav-scrolled>header:not(.header),.header,.nav-scrolled .header{background:#fff!important;color:#143754!important;border-bottom:1px solid #dce5eb!important;box-shadow:0 6px 24px rgba(12,42,68,.08)!important;backdrop-filter:none!important}
+body>header:not(.header){position:relative!important;top:auto!important}
+body>header:not(.header) .brand strong,body>header:not(.header) .brand small,.header .brand strong,.header .brand small{color:#153754!important;text-shadow:none!important}
+body>header:not(.header) .brand small,.header .brand small{color:#63778a!important}
+#nav>.home-nav-dropdown>summary,#nav>.lang-switch>summary,.header .links>a,.header .nav-dropdown>summary,.header .mobile{color:#183b57!important;text-shadow:none!important}
+#nav>.home-nav-dropdown>summary:hover,#nav>.home-nav-dropdown[open]>summary,.header .links>a:hover,.header .nav-dropdown>summary:hover{color:#a27400!important}
+#nav .home-dropdown-menu,#nav .lang-menu,.header .dropdown-menu{background:#fff!important;border:1px solid #dbe5ec!important;color:#173b58!important;box-shadow:0 17px 32px rgba(14,46,76,.14)!important}
+#nav .home-dropdown-menu a,#nav .lang-menu a,.header .dropdown-menu a{color:#173b58!important;text-shadow:none!important}
+#nav .home-dropdown-menu a:hover,#nav .lang-menu a:hover,.header .dropdown-menu a:hover{background:#edf4f8!important;color:#143754!important}
+.nav-cta,.header .quote,.btn:not(.secondary){background:#efbd39!important;color:#12314b!important;border-color:#efbd39!important;font-weight:800;border-radius:4px}
+.nav-cta:hover,.header .quote:hover,.btn:not(.secondary):hover{background:#f6d570!important;color:#12314b!important}
+/* Scene-led home carousel: panorama proportions from the supplied wide-banner reference. */
+.hero{height:clamp(620px,43vw,830px)!important;min-height:620px!important;background:#0a2944}
+.hero-slide{background-size:cover!important;background-position:center center!important}
+.hero-slide .hero-inner{height:100%;min-height:0!important;max-width:1420px;padding:48px 52px 70px!important}
+.hero-slide:before{background:linear-gradient(90deg,rgba(5,27,46,.91),rgba(7,34,56,.72) 38%,rgba(7,34,56,.12) 76%,rgba(7,34,56,.04))!important}
+.hero-slide:after{background:linear-gradient(180deg,rgba(4,23,40,.16),transparent 25%,rgba(4,23,40,.12))}
+.hero-copy{max-width:740px}
+.hero-slide h1,.hero-slide h2{font-size:clamp(42px,4.25vw,70px);line-height:1.08;letter-spacing:-.035em;text-wrap:balance;max-width:780px;color:#fff}
+.hero-slide h1 span,.hero-slide h2 span{color:#f3cb4d}
+.hero-slide .lead{max-width:650px;color:#e7eef3;font-size:clamp(17px,1.3vw,20px);line-height:1.58}
+.hero-slide .eyebrow{color:#f3cb4d;letter-spacing:.18em}
+.hero-slide .actions{gap:12px;flex-wrap:wrap}
+.hero-slide .actions .btn{min-height:48px;padding:13px 22px;border-radius:3px}
+.hero-slide .actions .btn.secondary{background:rgba(255,255,255,.04)!important;border:1px solid rgba(255,255,255,.8)!important;color:#fff!important;backdrop-filter:none}
+.hero-slide .actions .btn.secondary:hover{background:#fff!important;color:#153754!important}
+.hero-slide .trust{border-top-color:rgba(255,255,255,.27)}
+.hero-overview{background:#08263f!important}
+.hero-overview-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center center}
+.hero-overview:before{z-index:1;background:linear-gradient(90deg,#092b48 0%,rgba(8,40,67,.97) 31%,rgba(8,40,67,.72) 49%,rgba(8,40,67,.09) 79%)!important}
+.hero-overview .hero-inner{position:relative;z-index:2}
+.hero-overview h1{max-width:790px;font-size:clamp(42px,4vw,66px)}
+.hero-overview .lead{max-width:640px}
+.hero-overview .trust{max-width:650px}
+/* Edge arrows and centered indicator bars mirror the reference banner controls. */
+.hero-controls{left:0!important;bottom:0!important;width:100%!important;height:100%!important;transform:none!important;display:block!important}
+.hero-arrows{position:absolute;left:12px;right:12px;top:50%;transform:translateY(-50%);display:flex;justify-content:space-between;width:auto;pointer-events:none}
+.hero-arrow{pointer-events:auto;width:54px;height:64px;border:0!important;border-radius:0!important;background:transparent!important;color:#fff!important;font-size:48px;font-weight:300;line-height:1;text-shadow:0 2px 10px rgba(0,0,0,.38);backdrop-filter:none!important}
+.hero-arrow:hover{color:#f3cb4d!important;transform:scale(1.08)}
+.hero-dots{position:absolute;left:50%;bottom:22px;transform:translateX(-50%);display:flex;gap:9px}
+.hero-dot{width:34px;height:4px;border:0;background:rgba(255,255,255,.78)}
+.hero-dot.active{background:#f3cb4d}
+.hero-progress{display:none}
+.category-deck{border-top:0}
+@media(max-width:900px){
+ body>header:not(.header) #nav,.header .links{background:#fff!important;color:#183b57!important}
+ body>header:not(.header) #nav a,.header .links a,.header .nav-dropdown>summary{color:#183b57!important}
+ body>header:not(.header) .menu{color:#183b57!important}
+ .hero{height:650px!important;min-height:650px!important}
+ .hero-slide .hero-inner{padding:46px 58px 70px!important}
+ .hero-slide:before{background:linear-gradient(90deg,rgba(5,27,46,.96),rgba(6,31,53,.82) 50%,rgba(7,34,56,.25))!important}
+ .hero-overview:before{background:linear-gradient(90deg,rgba(7,38,64,.98),rgba(7,38,64,.88) 56%,rgba(7,38,64,.44))!important}
+ .hero-arrows{left:4px;right:4px}
+}
+@media(max-width:620px){
+ .hero{height:610px!important;min-height:610px!important}
+ .hero-slide .hero-inner{padding:34px 35px 68px!important;align-items:center}
+ .hero-slide h1,.hero-slide h2,.hero-overview h1{font-size:clamp(32px,8vw,44px);line-height:1.1;margin:12px 0 14px}
+ .hero-slide .lead{font-size:15px;line-height:1.5}
+ .hero-slide .eyebrow{font-size:10px}
+ .hero-slide .trust{display:none}
+ .hero-slide .actions .btn{font-size:13px;padding:11px 13px;min-height:43px}
+ .hero-overview-photo{object-position:65% center}
+ .hero-arrow{width:32px;font-size:35px}
+ .hero-dots{bottom:17px}
+ .hero-dot{width:25px}
+}
+/* RTL carousel: preserve reading direction while keeping arrow edges fixed. */
+html[dir="rtl"] .hero-controls{direction:ltr}
+html[dir="rtl"] .hero-overview:before{background:linear-gradient(270deg,#092b48 0%,rgba(8,40,67,.97) 31%,rgba(8,40,67,.72) 49%,rgba(8,40,67,.09) 79%)!important}
+html[dir="rtl"] .hero-slide:before{background:linear-gradient(270deg,rgba(5,27,46,.91),rgba(7,34,56,.72) 38%,rgba(7,34,56,.12) 76%,rgba(7,34,56,.04))!important}
+
+@media(max-width:620px){.hero-overview:before{background:linear-gradient(90deg,rgba(6,32,55,.94),rgba(6,32,55,.76))!important}html[dir="rtl"] .hero-overview:before{background:linear-gradient(270deg,rgba(6,32,55,.94),rgba(6,32,55,.76))!important}}

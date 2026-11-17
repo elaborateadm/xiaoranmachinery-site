@@ -1,0 +1,19 @@
+.traffic-growth{background:linear-gradient(135deg,#071d33 0%,#0d355a 62%,#124b78 100%);color:#fff;overflow:hidden;position:relative}
+.traffic-growth:before{background:radial-gradient(circle,rgba(242,197,0,.2),transparent 66%);content:"";height:420px;position:absolute;right:-120px;top:-210px;width:420px}
+.traffic-growth .section-title h2,.traffic-growth .section-title p{color:#fff}
+.traffic-grid{display:grid;gap:16px;grid-template-columns:repeat(3,minmax(0,1fr));position:relative}
+.traffic-card{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.17);border-radius:14px;color:#fff;display:flex;flex-direction:column;min-height:210px;padding:24px;text-decoration:none;transition:transform .25s ease,background .25s ease,border-color .25s ease}
+.traffic-card:hover{background:rgba(255,255,255,.13);border-color:#f2c500;color:#fff;transform:translateY(-4px)}
+.traffic-card span{color:#f2c500;font-size:.76rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase}
+.traffic-card h3{color:#fff;font-size:1.25rem;line-height:1.25;margin:14px 0 10px}
+.traffic-card p{color:rgba(255,255,255,.76);font-size:.94rem;line-height:1.65;margin:0 0 18px}
+.traffic-card strong{color:#f2c500;margin-top:auto}
+.answer-summary{background:#eef6fc;border-left:4px solid #0e5d96;border-radius:0 10px 10px 0;margin:0 0 28px;padding:18px 22px}
+.answer-summary p{margin:0}
+.comparison-table-wrap{margin:22px 0;overflow-x:auto}
+.comparison-table{border-collapse:collapse;min-width:680px;width:100%}
+.comparison-table caption{font-weight:800;padding:0 0 12px;text-align:left}
+.comparison-table th,.comparison-table td{border:1px solid #d8e2ea;padding:12px 14px;text-align:left;vertical-align:top}
+.comparison-table thead th{background:#0b2c4a;color:#fff}
+.comparison-table tbody th{background:#f2f6f9;color:#13283b}
+@media(max-width:900px){.traffic-grid{grid-template-columns:1fr}.traffic-card{min-height:0}}
