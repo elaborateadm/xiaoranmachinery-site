@@ -1,1 +1,23 @@
-.floating-contact{position:fixed;right:20px;bottom:20px;z-index:120}.float-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:52px;padding:0 20px;border-radius:999px;color:#fff;font:800 15px/1 Arial,"Helvetica Neue",sans-serif;letter-spacing:.01em;box-shadow:0 12px 30px rgba(4,23,39,.28);transition:transform .2s ease,box-shadow .2s ease,background .2s ease;position:relative}.float-btn svg{width:24px;height:24px;flex:none}.float-btn.whatsapp{background:#1fa855}.float-btn.whatsapp:hover,.float-btn.whatsapp:focus-visible{background:#178b46;transform:translateY(-3px);box-shadow:0 17px 36px rgba(10,91,48,.34)}.float-btn span{display:inline;position:static;background:none;padding:0;opacity:1;visibility:visible;white-space:nowrap}.model-whatsapp-cta{background:#1fa855!important;margin-left:8px}.model-whatsapp-cta:hover,.model-whatsapp-cta:focus-visible{background:#178b46!important}.model-whatsapp-cta svg{width:19px;height:19px;display:inline-block;vertical-align:-4px;margin-right:7px}@media(max-width:620px){.floating-contact{right:12px;bottom:14px}.float-btn{min-height:48px;padding:0 16px;font-size:14px}.model-whatsapp-cta{display:table;margin:9px 0 0!important}}
+/* XIAORAN 悬浮联系组：WhatsApp + Facebook 垂直堆叠 */
+.floating-contact{position:fixed;right:20px;bottom:20px;z-index:120;display:flex;flex-direction:column;align-items:flex-end;gap:10px}
+.float-btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:52px;padding:0 18px;border-radius:999px;color:#fff;font:800 14px/1 'Plus Jakarta Sans',Arial,'Helvetica Neue',sans-serif;letter-spacing:.01em;text-decoration:none;box-shadow:0 10px 26px rgba(4,23,39,.3);transition:transform .22s ease,box-shadow .22s ease,background .22s ease;position:relative}
+.float-btn svg{width:22px;height:22px;flex:none}
+.float-btn span{display:inline;position:static;background:none;padding:0;opacity:1;visibility:visible;white-space:nowrap}
+.float-btn.whatsapp{background:linear-gradient(135deg,#2bb45a,#1e9e4c)}
+.float-btn.whatsapp:hover,.float-btn.whatsapp:focus-visible{background:linear-gradient(135deg,#27a754,#188c43);transform:translateY(-3px);box-shadow:0 16px 34px rgba(20,120,60,.4)}
+.float-btn.facebook{background:linear-gradient(135deg,#3a7bf2,#1877F2)}
+.float-btn.facebook:hover,.float-btn.facebook:focus-visible{background:linear-gradient(135deg,#2b6ae4,#1461d8);transform:translateY(-3px);box-shadow:0 16px 34px rgba(24,90,220,.4)}
+/* 模型页 WhatsApp CTA */
+.model-whatsapp-cta{background:#1fa855!important;margin-left:8px}
+.model-whatsapp-cta:hover,.model-whatsapp-cta:focus-visible{background:#178b46!important}
+.model-whatsapp-cta svg{width:19px;height:19px;display:inline-block;vertical-align:-4px;margin-right:7px}
+@media(max-width:620px){
+  .floating-contact{right:12px;bottom:14px;gap:8px}
+  .float-btn{min-height:46px;padding:0 14px;font-size:13px}
+  .float-btn svg{width:19px;height:19px}
+  .model-whatsapp-cta{display:table;margin:9px 0 0!important}
+}
+@media(prefers-reduced-motion:reduce){
+  .float-btn{transition:none!important}
+  .float-btn:hover{transform:none!important}
+}
