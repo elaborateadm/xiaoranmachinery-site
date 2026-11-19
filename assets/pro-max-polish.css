@@ -1,0 +1,63 @@
+/* XIAORAN Pro-Max Polish — 设计系统精修层（ui-ux-pro-max 生成）
+   原则：保守叠加，不覆盖内容层；深蓝+品牌金；无障碍优先 */
+:root{
+  --pm-head-font:'Plus Jakarta Sans',Inter,ui-sans-serif,system-ui,-apple-system,'Segoe UI',Arial,sans-serif;
+  --pm-navy:#102f52;--pm-navy-deep:#0a2944;--pm-navy-ink:#143754;
+  --pm-gold:#f2c500;--pm-gold-soft:#f6d570;
+  --pm-border:#e3eaf1;
+  --pm-radius:14px;--pm-radius-sm:9px;
+  --pm-shadow-sm:0 1px 2px rgba(10,41,68,.05),0 4px 14px rgba(10,41,68,.07);
+  --pm-shadow-md:0 2px 4px rgba(10,41,68,.06),0 14px 34px rgba(10,41,68,.13);
+  --pm-shadow-lg:0 6px 12px rgba(10,41,68,.08),0 26px 60px rgba(10,41,68,.17);
+}
+/* ---- 排版：标题升级为 Plus Jakarta Sans ---- */
+h1,h2,h3,h4,.hero-slide h1,.hero-slide h2,.article-body h2,.article-body h3,.insight-copy h2,.section-head h2{
+  font-family:var(--pm-head-font)!important;
+  letter-spacing:-.022em;text-wrap:balance;
+}
+/* 数字统一等宽，避免跳动 */
+.stats,.trust,[class*=stat] b,[class*=metric]{font-variant-numeric:tabular-nums}
+::selection{background:var(--pm-gold);color:var(--pm-navy-deep)}
+/* ---- 卡片体系：统一圆角 + 分层阴影 + 呼吸感 ---- */
+.product-card,.category-card,.cert-card,.config-card,.insight-card,.factory-card,.assurance-card,.solution-main,.solution-small,.category-tile{
+  border-radius:var(--pm-radius)!important;
+  box-shadow:var(--pm-shadow-sm)!important;
+}
+.product-card,.cert-card,.config-card,.insight-card,.assurance-card{
+  border:1px solid var(--pm-border)!important;
+  background:linear-gradient(180deg,#ffffff 0%,#fcfdfe 100%)!important;
+}
+.product-card:hover,.cert-card:hover,.config-card:hover,.insight-card:hover,.assurance-card:hover{
+  box-shadow:var(--pm-shadow-lg)!important;transform:translateY(-6px)!important;border-color:#c7d6e4!important;
+}
+/* 图片统一圆角与微交互 */
+.product-card img,.insight-image img,.factory-card img,.cert-card img{transition:transform .45s cubic-bezier(.2,.7,.2,1)}
+.product-card:hover img,.factory-card:hover img{transform:scale(1.035)}
+/* ---- 按钮体系 ---- */
+.btn,.nav-cta,.quote{border-radius:8px!important;font-weight:800;letter-spacing:.008em}
+.btn:not(.secondary){box-shadow:0 1px 2px rgba(10,41,68,.14),inset 0 1px 0 rgba(255,255,255,.4)}
+.btn:not(.secondary):hover{box-shadow:0 8px 20px rgba(10,41,68,.22),inset 0 1px 0 rgba(255,255,255,.4)}
+.btn.secondary{box-shadow:var(--pm-shadow-sm)}
+/* 焦点可见性（无障碍核心） */
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,[tabindex]:focus-visible{
+  outline:3px solid rgba(18,62,99,.6)!important;outline-offset:2px;border-radius:4px;
+}
+/* 触控目标 */
+.btn,.nav-cta,.quote{min-height:44px}
+/* ---- 表格精修（文章参数表） ---- */
+.article-body table,.config-card table{border-collapse:collapse;width:100%}
+.article-body th{background:var(--pm-navy);color:#fff;font-family:var(--pm-head-font);font-weight:700}
+.article-body tr:nth-child(even) td{background:#f6f9fb}
+.article-body td,.article-body th{padding:11px 14px}
+/* ---- 滚动条 ---- */
+::-webkit-scrollbar{width:11px;height:11px}
+::-webkit-scrollbar-track{background:#eef3f7}
+::-webkit-scrollbar-thumb{background:#b9c9d7;border-radius:6px;border:2px solid #eef3f7}
+::-webkit-scrollbar-thumb:hover{background:#8fa7bd}
+/* ---- Hero 细节 ---- */
+.hero-slide .eyebrow{font-family:var(--pm-head-font);font-weight:700}
+.hero-slide .lead{text-wrap:pretty}
+/* 减少动画偏好下全部禁用 */
+@media(prefers-reduced-motion:reduce){
+  .product-card,.cert-card,.config-card,.insight-card,.assurance-card,.factory-card,.product-card img,.factory-card img{transition:none!important;transform:none!important}
+}
