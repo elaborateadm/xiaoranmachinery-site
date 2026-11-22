@@ -1,0 +1,120 @@
+================================================================
+Runtime Diagnostic Report
+Generated: 2026-11-22 17:16 (GMT+8)
+Host workspace: /workspace  |  User: root
+================================================================
+
+----------------------------------------------------------------
+1) pwd; whoami
+----------------------------------------------------------------
+Command : pwd; whoami
+Result  : SUCCESS (exit=0)
+Output  :
+/workspace
+exit=0
+root
+exit=0
+
+----------------------------------------------------------------
+2) git --version
+----------------------------------------------------------------
+Command : git --version
+Result  : SUCCESS (exit=0)
+Output  :
+git version 2.43.0
+
+----------------------------------------------------------------
+3) node --version; npm --version; npx --version
+----------------------------------------------------------------
+Command : node --version; npm --version; npx --version
+Result  : SUCCESS (all exit=0)
+Output  :
+v22.13.1   (node_exit=0)
+11.9.0     (npm_exit=0)
+11.9.0     (npx_exit=0)
+
+----------------------------------------------------------------
+4) python3 --version
+----------------------------------------------------------------
+Command : python3 --version
+Result  : SUCCESS (exit=0)
+Output  :
+Python 3.11.1
+
+----------------------------------------------------------------
+5) curl -s -o /dev/null -w "github_api:%{http_code}" https://api.github.com
+----------------------------------------------------------------
+Command : curl -s -o /dev/null -w "github_api:%{http_code}" https://api.github.com
+Result  : SUCCESS (exit=0)
+Output  :
+github_api:200
+
+----------------------------------------------------------------
+6) curl -s -o /dev/null -w "raw_http:%{http_code}" https://www.xiaoranmachinery.cn/
+----------------------------------------------------------------
+Command : curl -s -o /dev/null -w "raw_http:%{http_code}" https://www.xiaoranmachinery.cn/
+Result  : SUCCESS (exit=0)
+Output  :
+raw_http:200
+
+----------------------------------------------------------------
+7) git clone https://<TOKEN>@github.com/elaborateadm/xiaoranmachinery-site.git /tmp/diag-site
+----------------------------------------------------------------
+Command : git clone https://ghp_***REDACTED***@github.com/elaborateadm/xiaoranmachinery-site.git /tmp/diag-site
+Result  : SUCCESS (exit=0)
+Output  :
+Cloning into '/tmp/diag-site'...
+exit=0
+
+Repo root listing (ls -la /tmp/diag-site):
+drwxr-xr-x  .git
+-rw-r--r--  404.html
+drwxr-xr-x  about
+drwxr-xr-x  ar
+drwxr-xr-x  assets
+drwxr-xr-x  automation
+drwxr-xr-x  capabilities
+-rw-r--r--  CNAME
+drwxr-xr-x  contact
+drwxr-xr-x  customer-visits
+drwxr-xr-x  es
+drwxr-xr-x  faq
+drwxr-xr-x  fr
+-rw-r--r--  index.html        (79636 bytes)
+drwxr-xr-x  insights
+-rw-r--r--  llms.txt
+-rw-r--r--  _redirects
+-rw-r--r--  robots.txt
+drwxr-xr-x  shipment-examples
+-rw-r--r--  sitemap.xml       (145082 bytes)
+drwxr-xr-x  zh
+
+Repo info:
+  branch : main
+  log    : f22c959 Daily insights: dth-compressor-matching + borehole-development-steps (water-well-drilling-rigs)
+
+----------------------------------------------------------------
+8) cd /tmp/diag-site && ls automation/
+----------------------------------------------------------------
+Command : ls automation/
+Result  : SUCCESS (exit=0)
+Output  :
+-rw-r--r--  4963 bytes  PLAYBOOK.md
+-rw-r--r--   310 bytes  published.json
+-rw-r--r-- 12770 bytes  topics.json
+
+================================================================
+SUMMARY
+================================================================
+1) pwd/whoami ......... OK  (/workspace, root)
+2) git --version ...... OK  2.43.0
+3) node/npm/npx ....... OK  v22.13.1 / 11.9.0 / 11.9.0
+4) python3 ............ OK  3.11.1
+5) api.github.com ..... OK  HTTP 200
+6) xiaoranmachinery.cn  OK  HTTP 200
+7) git clone .......... OK  exit=0
+8) ls automation/ ..... OK  PLAYBOOK.md, published.json, topics.json
+
+All 8 probes succeeded. Toolchain (git/node/npm/npx/python3) present,
+outbound HTTPS reachable, repo cloned and push-capable with the supplied token.
+================================================================
