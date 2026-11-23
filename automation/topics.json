@@ -1,90 +1,446 @@
 {
-  "rotation": ["exploration-drilling-rigs", "water-well-drilling-rigs", "skid-steer-loaders", "spider-cranes", "aerial-work-platforms"],
+  "rotation": [
+    "exploration-drilling-rigs",
+    "water-well-drilling-rigs",
+    "skid-steer-loaders",
+    "spider-cranes",
+    "aerial-work-platforms"
+  ],
   "topics": {
     "exploration-drilling-rigs": [
-      {"slug": "wireline-vs-conventional-coring", "title": "Wireline vs Conventional Coring: Which Method Fits Your Program?", "keywords": "wireline coring, conventional coring, core drilling method"},
-      {"slug": "drilling-rig-mast-safety-features", "title": "Mast Safety Features to Check Before Buying a Core Drill", "keywords": "drill mast safety, core rig inspection"},
-      {"slug": "core-recovery-rate-improvement", "title": "How to Improve Core Recovery Rate in Fractured Formations", "keywords": "core recovery rate, fractured rock drilling"},
-      {"slug": "fdx200-vs-fdx400-selection", "title": "FDX200 vs FDX400: Choosing Depth Capacity Without Overspending", "keywords": "FDX200, FDX400, core rig comparison"},
-      {"slug": "diamond-bit-selection-guide", "title": "Diamond Core Bit Selection by Formation Hardness", "keywords": "diamond core bit, formation hardness"},
-      {"slug": "mobile-drilling-crew-transport", "title": "Moving a Core Rig Between Holes: Crew and Equipment Logistics", "keywords": "rig mobilization, drilling crew logistics"},
-      {"slug": "mud-pump-maintenance-core-rig", "title": "Mud Pump Maintenance Schedule for Core Drilling Operations", "keywords": "mud pump maintenance, core drilling"},
-      {"slug": "core-shed-orientation-logging", "title": "Setting Up an On-Site Core Shed: Orientation and Logging Basics", "keywords": "core shed, core logging"},
-      {"slug": "exploration-rig-power-options", "title": "Diesel vs Electric Power for Remote Exploration Sites", "keywords": "drill rig power, diesel electric exploration"},
-      {"slug": "rod-string-care-extended-life", "title": "Extending Rod String Life: Handling, Threading and Storage", "keywords": "drill rod care, rod string life"},
-      {"slug": "man-portable-rig-terrain", "title": "Man-Portable Drilling: When Terrain Rules Out Trucked Rigs", "keywords": "man portable drill rig, difficult terrain"},
-      {"slug": "core-drilling-cost-per-meter", "title": "Understanding Cost-per-Meter in Exploration Drilling", "keywords": "core drilling cost, meter rate"},
-      {"slug": "hoist-wireline-overload-protection", "title": "Wireline Hoist Overload Protection: What to Verify at Purchase", "keywords": "wireline hoist, overload protection"},
-      {"slug": "spot-geotechnical-coring-rig", "title": "Can a Mineral Exploration Rig Do Geotechnical Coring?", "keywords": "geotechnical coring, exploration rig dual use"},
-      {"slug": "pre-purchase-factory-inspection-rig", "title": "Pre-Purchase Factory Inspection Checklist for Core Rigs", "keywords": "rig factory inspection, pre-purchase checklist"}
+      {
+        "slug": "wireline-vs-conventional-coring",
+        "title": "Wireline vs Conventional Coring: Which Method Fits Your Program?",
+        "keywords": "wireline coring, conventional coring, core drilling method"
+      },
+      {
+        "slug": "drilling-rig-mast-safety-features",
+        "title": "Mast Safety Features to Check Before Buying a Core Drill",
+        "keywords": "drill mast safety, core rig inspection"
+      },
+      {
+        "slug": "core-recovery-rate-improvement",
+        "title": "How to Improve Core Recovery Rate in Fractured Formations",
+        "keywords": "core recovery rate, fractured rock drilling"
+      },
+      {
+        "slug": "fdx200-vs-fdx400-selection",
+        "title": "FDX200 vs FDX400: Choosing Depth Capacity Without Overspending",
+        "keywords": "FDX200, FDX400, core rig comparison"
+      },
+      {
+        "slug": "diamond-bit-selection-guide",
+        "title": "Diamond Core Bit Selection by Formation Hardness",
+        "keywords": "diamond core bit, formation hardness"
+      },
+      {
+        "slug": "mobile-drilling-crew-transport",
+        "title": "Moving a Core Rig Between Holes: Crew and Equipment Logistics",
+        "keywords": "rig mobilization, drilling crew logistics"
+      },
+      {
+        "slug": "mud-pump-maintenance-core-rig",
+        "title": "Mud Pump Maintenance Schedule for Core Drilling Operations",
+        "keywords": "mud pump maintenance, core drilling"
+      },
+      {
+        "slug": "core-shed-orientation-logging",
+        "title": "Setting Up an On-Site Core Shed: Orientation and Logging Basics",
+        "keywords": "core shed, core logging"
+      },
+      {
+        "slug": "exploration-rig-power-options",
+        "title": "Diesel vs Electric Power for Remote Exploration Sites",
+        "keywords": "drill rig power, diesel electric exploration"
+      },
+      {
+        "slug": "rod-string-care-extended-life",
+        "title": "Extending Rod String Life: Handling, Threading and Storage",
+        "keywords": "drill rod care, rod string life"
+      },
+      {
+        "slug": "man-portable-rig-terrain",
+        "title": "Man-Portable Drilling: When Terrain Rules Out Trucked Rigs",
+        "keywords": "man portable drill rig, difficult terrain"
+      },
+      {
+        "slug": "core-drilling-cost-per-meter",
+        "title": "Understanding Cost-per-Meter in Exploration Drilling",
+        "keywords": "core drilling cost, meter rate"
+      },
+      {
+        "slug": "hoist-wireline-overload-protection",
+        "title": "Wireline Hoist Overload Protection: What to Verify at Purchase",
+        "keywords": "wireline hoist, overload protection"
+      },
+      {
+        "slug": "spot-geotechnical-coring-rig",
+        "title": "Can a Mineral Exploration Rig Do Geotechnical Coring?",
+        "keywords": "geotechnical coring, exploration rig dual use"
+      },
+      {
+        "slug": "pre-purchase-factory-inspection-rig",
+        "title": "Pre-Purchase Factory Inspection Checklist for Core Rigs",
+        "keywords": "rig factory inspection, pre-purchase checklist"
+      },
+      {
+        "slug": "nq-hq-pq-core-size-selection",
+        "title": "NQ vs HQ vs PQ: Choosing Core Size for Deep Exploration",
+        "keywords": "NQ core size, HQ core drilling, PQ wireline, diamond core drilling rig"
+      },
+      {
+        "slug": "mineral-exploration-core-drill-buying-guide",
+        "title": "Mineral Exploration Core Drill Rig: Buying Guide (Not Concrete Coring)",
+        "keywords": "mineral exploration core drill rig, hydraulic diamond core drilling rig, core drill rig for sale"
+      }
     ],
     "water-well-drilling-rigs": [
-      {"slug": "dth-compressor-matching", "title": "Matching Your Compressor to a DTH Water Well Rig", "keywords": "DTH compressor matching, air drilling CFM"},
-      {"slug": "borehole-development-steps", "title": "Borehole Development After Drilling: Steps and Tools", "keywords": "borehole development, well completion"},
-      {"slug": "fy300-vs-fy400-capacity", "title": "FY300 vs FY400: Depth, Diameter and Compressor Trade-offs", "keywords": "FY300, FY400, water well rig comparison"},
-      {"slug": "casing-gravel-pack-guide", "title": "Casing and Gravel Pack: Protecting Your Well for Decades", "keywords": "well casing, gravel pack"},
-      {"slug": "water-well-permits-africa", "title": "Water Well Permits and Borehole Regulations: What Buyers Ask Us", "keywords": "borehole permit, water well regulation"},
-      {"slug": "mud-rotory-vs-dth-yield", "title": "Mud Rotary vs DTH: Which Delivers More Water in Your Formation?", "keywords": "mud rotary vs DTH, well yield"},
-      {"slug": "truck-mounted-vs-crawler-well-rig", "title": "Truck-Mounted vs Crawler Water Well Rigs: Access and Cost", "keywords": "truck mounted rig, crawler well rig"},
-      {"slug": "geothermal-loop-drilling", "title": "Using a Water Well Rig for Geothermal Loop Installation", "keywords": "geothermal loop drilling, closed loop"},
-      {"slug": "well-flushing-disinfection", "title": "Flushing and Disinfecting a New Borehole: A Practical Guide", "keywords": "well disinfection, borehole flushing"},
-      {"slug": "air-compressor-fuel-planning", "title": "Fuel Planning for Compressor-Driven Drilling Programs", "keywords": "compressor fuel, drilling fuel planning"},
-      {"slug": "hand-pump-vs-submersible", "title": "Hand Pump vs Submersible: Completing a Rural Borehole", "keywords": "hand pump, submersible pump borehole"},
-      {"slug": "water-well-rig-spare-kit", "title": "The Spare Parts Kit Every Water Well Crew Should Carry", "keywords": "drilling spare parts, rig consumables"},
-      {"slug": "drilling-in-sand-control", "title": "Drilling Through Sand: Circulation and Hole Control Basics", "keywords": "drilling sand formation, hole collapse control"},
-      {"slug": "borehole-diameter-pump-fit", "title": "Why Borehole Diameter Must Match Your Pump Plan", "keywords": "borehole diameter, pump sizing"},
-      {"slug": "seasonal-water-table-planning", "title": "Seasonal Water Tables: When to Drill for Reliable Yield", "keywords": "water table season, drilling timing"}
+      {
+        "slug": "dth-compressor-matching",
+        "title": "Matching Your Compressor to a DTH Water Well Rig",
+        "keywords": "DTH compressor matching, air drilling CFM"
+      },
+      {
+        "slug": "borehole-development-steps",
+        "title": "Borehole Development After Drilling: Steps and Tools",
+        "keywords": "borehole development, well completion"
+      },
+      {
+        "slug": "fy300-vs-fy400-capacity",
+        "title": "FY300 vs FY400: Depth, Diameter and Compressor Trade-offs",
+        "keywords": "FY300, FY400, water well rig comparison"
+      },
+      {
+        "slug": "casing-gravel-pack-guide",
+        "title": "Casing and Gravel Pack: Protecting Your Well for Decades",
+        "keywords": "well casing, gravel pack"
+      },
+      {
+        "slug": "water-well-permits-africa",
+        "title": "Water Well Permits and Borehole Regulations: What Buyers Ask Us",
+        "keywords": "borehole permit, water well regulation"
+      },
+      {
+        "slug": "mud-rotory-vs-dth-yield",
+        "title": "Mud Rotary vs DTH: Which Delivers More Water in Your Formation?",
+        "keywords": "mud rotary vs DTH, well yield"
+      },
+      {
+        "slug": "truck-mounted-vs-crawler-well-rig",
+        "title": "Truck-Mounted vs Crawler Water Well Rigs: Access and Cost",
+        "keywords": "truck mounted rig, crawler well rig"
+      },
+      {
+        "slug": "geothermal-loop-drilling",
+        "title": "Using a Water Well Rig for Geothermal Loop Installation",
+        "keywords": "geothermal loop drilling, closed loop"
+      },
+      {
+        "slug": "well-flushing-disinfection",
+        "title": "Flushing and Disinfecting a New Borehole: A Practical Guide",
+        "keywords": "well disinfection, borehole flushing"
+      },
+      {
+        "slug": "air-compressor-fuel-planning",
+        "title": "Fuel Planning for Compressor-Driven Drilling Programs",
+        "keywords": "compressor fuel, drilling fuel planning"
+      },
+      {
+        "slug": "hand-pump-vs-submersible",
+        "title": "Hand Pump vs Submersible: Completing a Rural Borehole",
+        "keywords": "hand pump, submersible pump borehole"
+      },
+      {
+        "slug": "water-well-rig-spare-kit",
+        "title": "The Spare Parts Kit Every Water Well Crew Should Carry",
+        "keywords": "drilling spare parts, rig consumables"
+      },
+      {
+        "slug": "drilling-in-sand-control",
+        "title": "Drilling Through Sand: Circulation and Hole Control Basics",
+        "keywords": "drilling sand formation, hole collapse control"
+      },
+      {
+        "slug": "borehole-diameter-pump-fit",
+        "title": "Why Borehole Diameter Must Match Your Pump Plan",
+        "keywords": "borehole diameter, pump sizing"
+      },
+      {
+        "slug": "seasonal-water-table-planning",
+        "title": "Seasonal Water Tables: When to Drill for Reliable Yield",
+        "keywords": "water table season, drilling timing"
+      },
+      {
+        "slug": "water-well-drilling-rig-price-guide",
+        "title": "Water Well Drilling Rig Price Guide: What 100m–1000m Models Cost",
+        "keywords": "water well drilling rig price, water well drilling rig for sale, borehole drilling rig cost"
+      },
+      {
+        "slug": "borewell-vs-borehole-drilling-machine",
+        "title": "Borewell vs Borehole Drilling Machine: Same Rig, Different Markets",
+        "keywords": "borewell drilling machine, borehole drilling rig, water well drilling machine for sale"
+      },
+      {
+        "slug": "crawler-water-well-rig-buyers-checklist",
+        "title": "Crawler Water Well Rig for Sale: 7 Checks Before You Buy",
+        "keywords": "crawler water well drilling rig for sale, buy water well rig, factory price drilling rig"
+      }
     ],
     "skid-steer-loaders": [
-      {"slug": "skid-steer-daily-checks", "title": "Daily Walkaround Checks for Skid Steer Loaders", "keywords": "skid steer daily inspection, machine checks"},
-      {"slug": "bucket-vs-pallet-forks", "title": "Bucket vs Pallet Forks: Getting More From One Machine", "keywords": "skid steer attachments, bucket forks"},
-      {"slug": "tracked-loader-track-life", "title": "Track Life on Skid Steer Loaders: Wear Factors and Care", "keywords": "track wear, rubber track care"},
-      {"slug": "loader-hydraulic-oil-care", "title": "Hydraulic Oil Care in Hot and Dusty Climates", "keywords": "hydraulic oil maintenance, dusty climate"},
-      {"slug": "c1200-specs-walkthrough", "title": "C1200 Walkthrough: Reading the Spec Sheet That Matters", "keywords": "C1200 skid steer, spec sheet"},
-      {"slug": "skid-steer-vs-compact-loader", "title": "Skid Steer vs Compact Wheel Loader: Which for Your Yard?", "keywords": "skid steer vs wheel loader"},
-      {"slug": "cold-start-diesel-equipment", "title": "Cold Starting Diesel Loaders: Preheat and Battery Care", "keywords": "cold start diesel, equipment winter"},
-      {"slug": "skid-steer-financing-export", "title": "Buying a Skid Steer for Import: Documentation You Need", "keywords": "skid steer import, export documentation"},
-      {"slug": "auger-post-hole-attachment", "title": "Post-Hole Augers on Skid Steers: Flow, Torque and Technique", "keywords": "skid steer auger, post hole"},
-      {"slug": "loading-silos-buckets", "title": "Feed and Grain Handling With a Compact Loader", "keywords": "grain handling loader, farm skid steer"},
-      {"slug": "tire-vs-track-cost", "title": "Tires vs Tracks: 5-Year Cost Comparison for Loader Owners", "keywords": "tire vs track cost, loader ownership"},
-      {"slug": "skid-steer-safety-cabin", "title": "ROPS, FOPS and Operator Safety in Compact Loaders", "keywords": "ROPS FOPS, loader safety"},
-      {"slug": "attachment-quick-coupler", "title": "Quick Couplers: Swapping Attachments Safely and Fast", "keywords": "quick coupler, attachment swap"},
-      {"slug": "construction-site-cleanup-loader", "title": "Site Cleanup Workflows With One Loader and Three Attachments", "keywords": "site cleanup, loader workflow"},
-      {"slug": "export-crate-skid-steer", "title": "How a Skid Steer Is Packed for Overseas Shipping", "keywords": "skid steer export packing, container shipping"}
+      {
+        "slug": "skid-steer-daily-checks",
+        "title": "Daily Walkaround Checks for Skid Steer Loaders",
+        "keywords": "skid steer daily inspection, machine checks"
+      },
+      {
+        "slug": "bucket-vs-pallet-forks",
+        "title": "Bucket vs Pallet Forks: Getting More From One Machine",
+        "keywords": "skid steer attachments, bucket forks"
+      },
+      {
+        "slug": "tracked-loader-track-life",
+        "title": "Track Life on Skid Steer Loaders: Wear Factors and Care",
+        "keywords": "track wear, rubber track care"
+      },
+      {
+        "slug": "loader-hydraulic-oil-care",
+        "title": "Hydraulic Oil Care in Hot and Dusty Climates",
+        "keywords": "hydraulic oil maintenance, dusty climate"
+      },
+      {
+        "slug": "c1200-specs-walkthrough",
+        "title": "C1200 Walkthrough: Reading the Spec Sheet That Matters",
+        "keywords": "C1200 skid steer, spec sheet"
+      },
+      {
+        "slug": "skid-steer-vs-compact-loader",
+        "title": "Skid Steer vs Compact Wheel Loader: Which for Your Yard?",
+        "keywords": "skid steer vs wheel loader"
+      },
+      {
+        "slug": "cold-start-diesel-equipment",
+        "title": "Cold Starting Diesel Loaders: Preheat and Battery Care",
+        "keywords": "cold start diesel, equipment winter"
+      },
+      {
+        "slug": "skid-steer-financing-export",
+        "title": "Buying a Skid Steer for Import: Documentation You Need",
+        "keywords": "skid steer import, export documentation"
+      },
+      {
+        "slug": "auger-post-hole-attachment",
+        "title": "Post-Hole Augers on Skid Steers: Flow, Torque and Technique",
+        "keywords": "skid steer auger, post hole"
+      },
+      {
+        "slug": "loading-silos-buckets",
+        "title": "Feed and Grain Handling With a Compact Loader",
+        "keywords": "grain handling loader, farm skid steer"
+      },
+      {
+        "slug": "tire-vs-track-cost",
+        "title": "Tires vs Tracks: 5-Year Cost Comparison for Loader Owners",
+        "keywords": "tire vs track cost, loader ownership"
+      },
+      {
+        "slug": "skid-steer-safety-cabin",
+        "title": "ROPS, FOPS and Operator Safety in Compact Loaders",
+        "keywords": "ROPS FOPS, loader safety"
+      },
+      {
+        "slug": "attachment-quick-coupler",
+        "title": "Quick Couplers: Swapping Attachments Safely and Fast",
+        "keywords": "quick coupler, attachment swap"
+      },
+      {
+        "slug": "construction-site-cleanup-loader",
+        "title": "Site Cleanup Workflows With One Loader and Three Attachments",
+        "keywords": "site cleanup, loader workflow"
+      },
+      {
+        "slug": "export-crate-skid-steer",
+        "title": "How a Skid Steer Is Packed for Overseas Shipping",
+        "keywords": "skid steer export packing, container shipping"
+      },
+      {
+        "slug": "skid-steer-financing-import-guide",
+        "title": "Skid Steer Loader Financing and Import: Duties, CE and Documents",
+        "keywords": "skid steer loader financing, skid steer import duty, CE certificate loader, spare parts support"
+      }
     ],
     "spider-cranes": [
-      {"slug": "spider-crane-glass-installation", "title": "Glass Panel Installation With Spider Cranes: Radius and Suction", "keywords": "glass installation crane, vacuum lifter"},
-      {"slug": "gtjz10-load-chart-reading", "title": "Reading the GTJZ10 Load Chart at Real Working Radii", "keywords": "GTJZ10, load chart"},
-      {"slug": "indoor-lift-floor-protection", "title": "Protecting Finished Floors During Indoor Crane Lifts", "keywords": "indoor crane, floor protection"},
-      {"slug": "spider-crane-outrigger-setpads", "title": "Outrigger Pads and Ground Bearing: Sizing Made Simple", "keywords": "outrigger pads, ground bearing pressure"},
-      {"slug": "crane-radio-remote-control", "title": "Radio Remote Control on Spider Cranes: Safety and Workflow", "keywords": "crane remote control, spider crane safety"},
-      {"slug": "spider-crane-maintenance-interval", "title": "Maintenance Intervals for Compact Crawler Cranes", "keywords": "spider crane maintenance, crawler crane service"},
-      {"slug": "confined-space-lifting-plan", "title": "Planning a Lift in a Confined Space: Access, Radius, Power", "keywords": "confined space lifting, indoor crane plan"},
-      {"slug": "spider-crane-electric-battery", "title": "Battery and Power Options on Electric Spider Cranes", "keywords": "electric spider crane, battery crane"},
-      {"slug": "courtyard-pool-crane-lift", "title": "Lifting Into Courtyards and Pool Areas: Narrow Access Wins", "keywords": "courtyard crane lift, narrow access"},
-      {"slug": "spider-crane-annex-inspection", "title": "Annual Inspection Points for Spider Crane Owners", "keywords": "crane annual inspection, LOLER style checks"},
-      {"slug": "boom-folded-transport-van", "title": "Transporting a Folded Spider Crane on a Light Trailer", "keywords": "spider crane transport, trailer towing"},
-      {"slug": "lifting-steel-beams-indoor", "title": "Steel Beam Placement Indoors: Load Path and Restrictions", "keywords": "indoor steel lifting, beam placement"},
-      {"slug": "spider-crane-vs-telehandler", "title": "Spider Crane vs Telehandler for Indoor Work", "keywords": "spider crane vs telehandler"},
-      {"slug": "winch-line-pull-basics", "title": "Winch Line Pull vs Rated Capacity: What the Numbers Mean", "keywords": "winch line pull, crane capacity"},
-      {"slug": "crane-operator-training-basics", "title": "Training Operators New to Spider Cranes: First Week Plan", "keywords": "crane operator training"}
+      {
+        "slug": "spider-crane-glass-installation",
+        "title": "Glass Panel Installation With Spider Cranes: Radius and Suction",
+        "keywords": "glass installation crane, vacuum lifter"
+      },
+      {
+        "slug": "gtjz10-load-chart-reading",
+        "title": "Reading the GTJZ10 Load Chart at Real Working Radii",
+        "keywords": "GTJZ10, load chart"
+      },
+      {
+        "slug": "indoor-lift-floor-protection",
+        "title": "Protecting Finished Floors During Indoor Crane Lifts",
+        "keywords": "indoor crane, floor protection"
+      },
+      {
+        "slug": "spider-crane-outrigger-setpads",
+        "title": "Outrigger Pads and Ground Bearing: Sizing Made Simple",
+        "keywords": "outrigger pads, ground bearing pressure"
+      },
+      {
+        "slug": "crane-radio-remote-control",
+        "title": "Radio Remote Control on Spider Cranes: Safety and Workflow",
+        "keywords": "crane remote control, spider crane safety"
+      },
+      {
+        "slug": "spider-crane-maintenance-interval",
+        "title": "Maintenance Intervals for Compact Crawler Cranes",
+        "keywords": "spider crane maintenance, crawler crane service"
+      },
+      {
+        "slug": "confined-space-lifting-plan",
+        "title": "Planning a Lift in a Confined Space: Access, Radius, Power",
+        "keywords": "confined space lifting, indoor crane plan"
+      },
+      {
+        "slug": "spider-crane-electric-battery",
+        "title": "Battery and Power Options on Electric Spider Cranes",
+        "keywords": "electric spider crane, battery crane"
+      },
+      {
+        "slug": "courtyard-pool-crane-lift",
+        "title": "Lifting Into Courtyards and Pool Areas: Narrow Access Wins",
+        "keywords": "courtyard crane lift, narrow access"
+      },
+      {
+        "slug": "spider-crane-annex-inspection",
+        "title": "Annual Inspection Points for Spider Crane Owners",
+        "keywords": "crane annual inspection, LOLER style checks"
+      },
+      {
+        "slug": "boom-folded-transport-van",
+        "title": "Transporting a Folded Spider Crane on a Light Trailer",
+        "keywords": "spider crane transport, trailer towing"
+      },
+      {
+        "slug": "lifting-steel-beams-indoor",
+        "title": "Steel Beam Placement Indoors: Load Path and Restrictions",
+        "keywords": "indoor steel lifting, beam placement"
+      },
+      {
+        "slug": "spider-crane-vs-telehandler",
+        "title": "Spider Crane vs Telehandler for Indoor Work",
+        "keywords": "spider crane vs telehandler"
+      },
+      {
+        "slug": "winch-line-pull-basics",
+        "title": "Winch Line Pull vs Rated Capacity: What the Numbers Mean",
+        "keywords": "winch line pull, crane capacity"
+      },
+      {
+        "slug": "crane-operator-training-basics",
+        "title": "Training Operators New to Spider Cranes: First Week Plan",
+        "keywords": "crane operator training"
+      },
+      {
+        "slug": "spider-crane-glass-vacuum-lifter-guide",
+        "title": "Spider Crane Glass Vacuum Lifter: Selection and Setup Guide",
+        "keywords": "glass vacuum lifter, spider crane vacuum lifter, glass curtain wall crane"
+      },
+      {
+        "slug": "cobra-crane-mini-crawler-crane-names",
+        "title": "Cobra Crane vs Spider Crane vs Mini Crawler Crane: Same Machine?",
+        "keywords": "cobra crane, mini crawler crane, spider crane for sale"
+      }
     ],
     "aerial-work-platforms": [
-      {"slug": "scissor-lift-pre-op-checklist", "title": "Pre-Operation Checklist for Electric Scissor Lifts", "keywords": "scissor lift checklist, pre operation"},
-      {"slug": "awp-battery-charging-habits", "title": "Battery Charging Habits That Double Platform Battery Life", "keywords": "scissor lift battery, charging"},
-      {"slug": "pothole-guards-explained", "title": "Pothole Guards and Rails: Elevated Safety Features Explained", "keywords": "pothole guard, scissor lift safety"},
-      {"slug": "warehouse-awp-height-planning", "title": "Planning Platform Height for Warehouse Racking Work", "keywords": "warehouse platform height, racking maintenance"},
-      {"slug": "crawler-platform-outdoor-use", "title": "Crawler Platforms Outdoors: Slopes, Ground and Weather Limits", "keywords": "crawler platform, outdoor AWP"},
-      {"slug": "scissor-lift-floor-load-calc", "title": "Calculating Floor Load Before Driving a Lift Indoors", "keywords": "floor load, indoor scissor lift"},
-      {"slug": "awp-ip-rating-dust", "title": "IP Ratings on Electric Platforms: What Dust and Water Scores Mean", "keywords": "IP rating, electric platform"},
-      {"slug": "elevator-transport-scissor", "title": "Moving a Scissor Lift Through Elevators and Corridors", "keywords": "elevator transport, scissor lift moving"},
-      {"slug": "harness-rules-platforms", "title": "Harness Rules on Scissor Lifts: When It Is Actually Required", "keywords": "harness scissor lift, fall protection"},
-      {"slug": "gtjz-scissor-model-compare", "title": "Comparing Our 10 m and 12 m Scissor Platforms Task by Task", "keywords": "10m 12m scissor lift comparison"},
-      {"slug": "awp-rental-vs-purchase", "title": "Rent vs Buy for Aerial Work Platforms: A 3-Year View", "keywords": "AWP rental vs buy"},
-      {"slug": "platform-lithium-upgrade", "title": "Lithium Batteries on Aerial Platforms: Worth the Upgrade?", "keywords": "lithium AWP, platform battery upgrade"},
-      {"slug": "maintenance-lift-hydraulics", "title": "Hydraulic System Care for Scissor and Crawler Platforms", "keywords": "platform hydraulics, lift maintenance"},
-      {"slug": "solar-install-awp", "title": "Solar Panel Installation Work With Elevated Platforms", "keywords": "solar installation platform, PV work at height"},
-      {"slug": "awp-export-ce-documents", "title": "CE and Export Documents for Platform Buyers: What to Request", "keywords": "CE platform, export documents"}
+      {
+        "slug": "scissor-lift-pre-op-checklist",
+        "title": "Pre-Operation Checklist for Electric Scissor Lifts",
+        "keywords": "scissor lift checklist, pre operation"
+      },
+      {
+        "slug": "awp-battery-charging-habits",
+        "title": "Battery Charging Habits That Double Platform Battery Life",
+        "keywords": "scissor lift battery, charging"
+      },
+      {
+        "slug": "pothole-guards-explained",
+        "title": "Pothole Guards and Rails: Elevated Safety Features Explained",
+        "keywords": "pothole guard, scissor lift safety"
+      },
+      {
+        "slug": "warehouse-awp-height-planning",
+        "title": "Planning Platform Height for Warehouse Racking Work",
+        "keywords": "warehouse platform height, racking maintenance"
+      },
+      {
+        "slug": "crawler-platform-outdoor-use",
+        "title": "Crawler Platforms Outdoors: Slopes, Ground and Weather Limits",
+        "keywords": "crawler platform, outdoor AWP"
+      },
+      {
+        "slug": "scissor-lift-floor-load-calc",
+        "title": "Calculating Floor Load Before Driving a Lift Indoors",
+        "keywords": "floor load, indoor scissor lift"
+      },
+      {
+        "slug": "awp-ip-rating-dust",
+        "title": "IP Ratings on Electric Platforms: What Dust and Water Scores Mean",
+        "keywords": "IP rating, electric platform"
+      },
+      {
+        "slug": "elevator-transport-scissor",
+        "title": "Moving a Scissor Lift Through Elevators and Corridors",
+        "keywords": "elevator transport, scissor lift moving"
+      },
+      {
+        "slug": "harness-rules-platforms",
+        "title": "Harness Rules on Scissor Lifts: When It Is Actually Required",
+        "keywords": "harness scissor lift, fall protection"
+      },
+      {
+        "slug": "gtjz-scissor-model-compare",
+        "title": "Comparing Our 10 m and 12 m Scissor Platforms Task by Task",
+        "keywords": "10m 12m scissor lift comparison"
+      },
+      {
+        "slug": "awp-rental-vs-purchase",
+        "title": "Rent vs Buy for Aerial Work Platforms: A 3-Year View",
+        "keywords": "AWP rental vs buy"
+      },
+      {
+        "slug": "platform-lithium-upgrade",
+        "title": "Lithium Batteries on Aerial Platforms: Worth the Upgrade?",
+        "keywords": "lithium AWP, platform battery upgrade"
+      },
+      {
+        "slug": "maintenance-lift-hydraulics",
+        "title": "Hydraulic System Care for Scissor and Crawler Platforms",
+        "keywords": "platform hydraulics, lift maintenance"
+      },
+      {
+        "slug": "solar-install-awp",
+        "title": "Solar Panel Installation Work With Elevated Platforms",
+        "keywords": "solar installation platform, PV work at height"
+      },
+      {
+        "slug": "awp-export-ce-documents",
+        "title": "CE and Export Documents for Platform Buyers: What to Request",
+        "keywords": "CE platform, export documents"
+      },
+      {
+        "slug": "scissor-lift-price-guide-by-height",
+        "title": "Scissor Lift Price Guide: What Different Working Heights Cost",
+        "keywords": "scissor lift price, scissor lift for sale, aerial work platform price"
+      },
+      {
+        "slug": "crawler-scissor-lift-rough-terrain-guide",
+        "title": "Crawler Scissor Lift: When Tracked Platforms Beat Wheeled Models",
+        "keywords": "crawler scissor lift, rough terrain scissor lift, tracked aerial work platform"
+      }
     ]
   }
 }
