@@ -1,34 +1,70 @@
 # XIAORAN MACHINERY — Drilling Rigs & Industrial Equipment Manufacturer
 
-> XIAORAN MACHINERY is a manufacturer and global supplier of exploration drilling rigs, water well drilling rigs, skid steer loaders, spider cranes and aerial work platforms, based in Jining, Shandong, China. The company exports worldwide and supports buyers with written configuration proposals, container packing for shipment and pre-order technical consultation. Sales contact: sales@xiaoranmachinery.cn.
-
-## Company
-
-- [About Us](https://www.xiaoranmachinery.cn/about/): company profile, manufacturing capability and export experience.
-- [Customer Visits](https://www.xiaoranmachinery.cn/customer-visits/): photos of international buyers visiting the Jining factory to inspect machines before ordering.
-- [Shipment Examples](https://www.xiaoranmachinery.cn/shipment-examples/): container packing and export shipment documentation of machines delivered to customers.
+> XIAORAN MACHINERY is a manufacturer and global supplier of exploration drilling rigs, water well drilling rigs, skid steer loaders, spider cranes and aerial work platforms, based in Jining, Shandong, China. The company exports worldwide and supports buyers with written configuration proposals, container packing for shipment and pre-order technical consultation. Sales contact: sales@xiaoranmachinery.cn. Payment, warranty and lead-time specifics are confirmed in written quotations.
 
 ## Products
-
-- [Exploration Drilling Rigs](https://www.xiaoranmachinery.cn/products/exploration-drilling-rigs/): wireline core rigs for mineral exploration; NTW/BTW/HTW depth ratings from 200 m to 1500 m (models FDX200, FDX400, FDX600, FD800–FD1500).
-- [Water Well Drilling Rigs](https://www.xiaoranmachinery.cn/products/water-well-drilling-rigs/): DTH and mud rotary rigs for household, farm, irrigation and geothermal wells (models FY300A–FY500, XZ03B/XZ03C/XZ05A).
-- [Skid Steer Loaders](https://www.xiaoranmachinery.cn/products/skid-steer-loaders/): wheeled and tracked loaders with rated operating capacity from 700 kg to 1200 kg (models C1200, V1000, T480, S360).
-- [Spider Cranes](https://www.xiaoranmachinery.cn/products/spider-cranes/): compact crawler cranes for indoor and confined-space lifting, 3–12 t models (GTJZ04, GTJZ10, GTJZ12).
+- [Exploration Drilling Rigs](https://www.xiaoranmachinery.cn/products/exploration-drilling-rigs/): wireline core rigs for mineral exploration, 200-1500 m depth (FDX200-FDX600, FD800-FD1500).
+- [Water Well Drilling Rigs](https://www.xiaoranmachinery.cn/products/water-well-drilling-rigs/): DTH and mud rotary rigs for household, farm, irrigation and geothermal wells (FY300A-FY500, XZ series).
+- [Skid Steer Loaders](https://www.xiaoranmachinery.cn/products/skid-steer-loaders/): wheeled and tracked loaders, 700-1200 kg rated capacity (C1200, V1000, T480, S360).
+- [Spider Cranes](https://www.xiaoranmachinery.cn/products/spider-cranes/): compact crawler cranes for indoor and confined-space lifting, 3-12 t (GTJZ04-GTJZ12).
 - [Aerial Work Platforms](https://www.xiaoranmachinery.cn/products/aerial-work-platforms/): electric scissor lifts and crawler platforms for indoor and outdoor work at height.
+- [Truck-Mounted Drill Rigs](https://www.xiaoranmachinery.cn/products/fyc-truck-mounted/): truck-mounted water well rigs for fast inter-site mobility.
 
-## Buying Guides (Insights)
+## Guides — Exploration Drilling
+- [How to Choose an Exploration Drilling Rig for Core Drilling | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/choose-exploration-drilling-rig/): A practical guide to selecting an exploration drilling rig by target depth, core diameter, geology, terrain, p
+- [Core Drilling Rig Feed, Pullback and Rod Handling: What to Compare | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/core-drilling-feed-pullback-rod-handling/): A practical comparison of feed travel, pullback capability, rod handling and recovery planning for wireline ex
+- [Core Drilling Fluid Circulation and Mud Pump Selection | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/core-drilling-fluid-circulation-mud-pump/): How circulation, water supply, cuttings removal and pump matching affect a wireline core drilling configuratio
+- [DTH Compressor Matching for Water Well Rigs | XIAORAN](https://www.xiaoranmachinery.cn/insights/dth-compressor-matching/): How to match compressor pressure and air volume to a DTH water well rig: hammer size, hole diameter, elevation
+- [Exploration Drilling Rig Transport and Site Access Checklist | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/exploration-drilling-rig-transport-site-access/): A buyer checklist for transport dimensions, access routes, setup footprint and utilities before choosing a cra
+- [FDX200 vs FDX400: Which Core Rig Fits | XIAORAN](https://www.xiaoranmachinery.cn/insights/fdx200-vs-fdx400-selection/): Compare the FDX200 and FDX400 wireline core rigs on depth capacity, weight, pullback, feed force and transport
+- [NTW, BTW and HTW Drilling Depth: How to Compare Core Rigs | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/ntw-btw-htw-drilling-depth/): Understand why NTW, BTW and HTW depth ratings differ, and compare exploration rigs by core diameter, formation
+- [Wireline vs Conventional Coring: How to Choose | XIAORAN](https://www.xiaoranmachinery.cn/insights/wireline-vs-conventional-coring/): How wireline and conventional coring differ in rod handling, cycle time and hole conditions, plus how to choos
 
-- [How to Choose an Exploration Drilling Rig](https://www.xiaoranmachinery.cn/insights/choose-exploration-drilling-rig/): depth, core size, terrain and power considerations.
-- [NTW vs BTW vs HTW Drilling Depth Explained](https://www.xiaoranmachinery.cn/insights/ntw-btw-htw-drilling-depth/): why depth ratings differ by core-barrel size.
-- [300 m Water Well Rig Selection](https://www.xiaoranmachinery.cn/insights/): air versus mud rotary method comparison.
+## Guides — Water Well Drilling
+- [Borehole Development Steps: A Practical Guide | XIAORAN](https://www.xiaoranmachinery.cn/insights/borehole-development-steps/): Surging, air lifting, jetting, gravel pack, pump testing and disinfection: the steps that turn a drilled boreh
+- [FY300 vs FY400 vs FY500 Water Well Drilling Rig Comparison | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/fy300-fy400-fy500-water-well-drilling-rig-comparison/): Compare FY300A/FY300B, FY400 and FY500 catalog depth, hole diameter, engine power, air demand and transport fa
+- [How to Choose a 300 m Water Well Drilling Rig | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/how-to-choose-300m-water-well-drilling-rig/): Compare drilling method, hole diameter, air demand, feed stroke, geology and transport requirements before sel
 
-## Projects & FAQ
+## Guides — Skid Steer Loaders
+- [Bucket vs Pallet Forks: Getting More From One Machine](https://www.xiaoranmachinery.cn/insights/bucket-vs-pallet-forks/): Load centre, published rated loads and material density sums: how to tell whether a bucket or pallet forks sui
+- [C1200 vs V1000 vs T480: Tracked Skid Steer Buyer Comparison | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/c1200-v1000-t480-tracked-skid-steer-comparison/): Compare C1200, V1000 and T480 rated load, operating weight, dimensions and bucket capacity, then confirm acces
+- [Mini Skid Steer Loader Dimensions: A Narrow Access Checklist | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/mini-skid-steer-narrow-access-dimensions-guide/): How to measure a gate, corridor, turning route and bucket clearance before selecting a narrow mini skid steer
+- [Mini Tracked Dumper vs Concrete Mixer: T500 and T550 | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/mini-tracked-dumper-vs-concrete-mixer-t500-t550/): Compare T500 tracked mini dumper and T550 tracked mini concrete mixer by job, maximum load, dimensions and sit
+- [Choosing Skid Steer Attachments: Hydraulic Flow and Machine Size | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/skid-steer-attachment-hydraulic-flow/): Compare skid steer attachments by hydraulic flow, rated load, machine width and the task on site.
+- [Daily Walkaround Checks for Skid Steer Loaders | XIAORAN](https://www.xiaoranmachinery.cn/insights/skid-steer-daily-checks/): A ten-minute pre-start walkaround for tracked and wheeled skid steer loaders: checks by system, escalation rul
+- [Skid Steer Rated Operating Capacity, Bucket Load and Attachment Weight | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/skid-steer-rated-operating-capacity-attachments/): How to compare rated load, material density and attachment mass when choosing a compact tracked loader.
+- [Tracked Skid Steer Loaders on Soft Ground: What to Check | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/tracked-skid-steer-soft-ground-track-selection/): A practical site checklist for traction, ground support, track wear and access when selecting compact tracked
+- [Wheeled vs Tracked Mini Skid Steer Loaders: Compare S and T Models | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/wheeled-vs-tracked-mini-skid-steer-model-comparison/): Compare paired S360/T360 through S490/T490 mini skid steer models by operating weight, rated load and publishe
 
-- [Project Cases](https://www.xiaoranmachinery.cn/project-cases/): worked configuration examples, export packing walkthrough and jobsite machine-matching method.
-- [FAQ](https://www.xiaoranmachinery.cn/faq/): MOQ, payment terms, lead time, shipping, warranty, spare parts and dealer policy (specifics confirmed in written quotations).
+## Guides — Spider Cranes
+- [10 m vs 12 m Platform Height: GTJZ10 and GTJZ12 Compared | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/10m-vs-12m-scissor-lift-gtjz10-gtjz12/): Compare GTJZ10 and GTJZ12 working height, platform height, machine size, load and transport dimensions before
+- [3-Ton vs 5-Ton Spider Crane: XZ03B, XZ03C and XZ05A Compared | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/3-ton-vs-5-ton-spider-crane/): Compare XZ03B, XZ03C and XZ05A rated load, boom length, access dimensions, weight and outrigger space before r
+- [Cobra Crane vs Spider Crane: Mini Crawler Crane Names](https://www.xiaoranmachinery.cn/insights/cobra-crane-mini-crawler-crane-names/): Cobra crane, spider crane and mini crawler crane name one compact lifting class. How the terms differ, and how
+- [Spider Crane Access Width, Folded Boom and Indoor Lift Planning | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/spider-crane-access-width-folded-boom-planning/): Compare folded size, turning space, route limits and deployed working envelope before selecting a crawler spid
+- [Glass Panel Installation With Spider Cranes: Radius, Suction and Lift Planning | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/spider-crane-glass-installation/): Plan glass panel lifts with a spider crane: panel weight and radius math, suction lifter selection, outrigger
+- [Spider Crane Load Chart: Rated Capacity vs Working Radius | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/spider-crane-load-chart-working-radius/): Learn how working radius, boom extension and outrigger setup affect spider crane selection beyond its headline
+- [Spider Crane Outrigger Footprint and Ground Bearing Checklist | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/spider-crane-outrigger-footprint-ground-bearing/): Plan spider crane setup by access width, outrigger spread, support surface and the correct load chart for a li
+- [Spider Crane Selection Guide: Capacity, Reach and Outrigger Space | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/spider-crane-selection-guide/): Learn how to compare spider cranes by rated load, working radius, boom length, outrigger footprint, access wid
+- [Spider Crane vs Aerial Work Platform: Choose by the Job | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/spider-crane-vs-aerial-work-platform/): Compare material lifting with personnel access using XZ03C, XZ05A, GTJZ10 and HC0607EA specifications and a pr
+- [Winch Line Pull vs Rated Capacity: What the Numbers Mean](https://www.xiaoranmachinery.cn/insights/winch-line-pull-basics/): Line pull and rated capacity measure different things: rope force versus hook load at a radius. How to compare
 
-## Contact & Social
+## Guides — Aerial Work Platforms
+- [Crawler Platforms Outdoors: Slope, Ground and Weather Limits](https://www.xiaoranmachinery.cn/insights/crawler-platform-outdoor-use/): Tracked crawler scissor lifts handle slopes, soft ground and weather that stop wheeled platforms. Gradeability
+- [Electric Scissor Lift vs Crawler Platform for Indoor and Outdoor Work | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/electric-vs-crawler-scissor-lift-site-selection/): Choose between compact electric and crawler scissor lifts by floor conditions, access, working height and plat
+- [Protecting Finished Floors During Indoor Spider Crane Lifts | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/indoor-lift-floor-protection/): How to plan floor loading, outrigger pads and protection materials when a spider crane works inside completed
+- [How to Select a Scissor Lift for Indoor, Outdoor and Uneven Ground Work | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/scissor-lift-buying-guide/): Compare scissor lifts by working height, platform load, machine size, drive system, gradeability and ground co
+- [Scissor Lift Doorway Clearance, Transport Height and Floor Load | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/scissor-lift-doorway-transport-clearance/): A site measurement guide for compact scissor lifts covering folded dimensions, routes, floors and platform cap
+- [Scissor Lift Floor Load: How to Verify a Slab Before Working Indoors | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/scissor-lift-floor-load-calc/): Calculate scissor lift wheel loads, compare them against slab capacity and plan mats and travel routes for ind
+- [Scissor Lift Pre-Operation Checklist: What to Inspect Before the Platform Goes Up | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/scissor-lift-pre-op-checklist/): A practical daily inspection sequence for scissor lifts: ground and surface checks, structure, hydraulics, con
+- [Scissor Lift Working Height vs Platform Height: Choosing the Right Model | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/scissor-lift-working-height-platform-height/): Understand the difference between working height and platform height, then compare load and chassis conditions
+- [Planning Platform Height for Warehouse Racking Work](https://www.xiaoranmachinery.cn/insights/warehouse-awp-height-planning/): Match scissor lift platform height to racking levels, not ceiling height. Working-height math, load limits and
 
+## Guides — General
+- [Machinery Export Packing Checklist for International Buyers | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/machinery-export-packing-checklist/): A practical checklist for transport dimensions, loading evidence, documents and spare parts in machinery expor
+
+## Company & FAQ
+- [About Us](https://www.xiaoranmachinery.cn/about/): company profile, manufacturing capability and export experience.
+- [Shipment Examples](https://www.xiaoranmachinery.cn/shipment-examples/): container packing and export shipment photos and videos.
+- [FAQ](https://www.xiaoranmachinery.cn/faq/): MOQ, payment terms, lead time, shipping, warranty, spare parts.
 - [Contact](https://www.xiaoranmachinery.cn/contact/): inquiry form, email and WhatsApp; replies within one business day.
-- [Facebook Page](https://www.facebook.com/profile.php?id=61591936822342): official company page.
-- [Facebook Page (Global)](https://www.facebook.com/profile.php?id=61591527040105): global market updates and product posts.
+- [Facebook Page](https://www.facebook.comhttps://www.facebook.com/profile.php?id=61591936822342): official company page.
