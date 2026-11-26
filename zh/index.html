@@ -183,5 +183,5 @@
     document.getElementById('quoteForm').addEventListener('submit',e=>{e.preventDefault();const d=new FormData(e.target),subject=encodeURIComponent(`Equipment inquiry: ${d.get('product')}`),body=encodeURIComponent(`Name / Company: ${d.get('name')}\nCountry: ${d.get('country')}\nEmail: ${d.get('email')}\nEquipment: ${d.get('product')}\n\nProject requirements:\n${d.get('message')}`);window.location.href=`mailto:sales@xiaoranmachinery.cn?subject=${subject}&body=${body}`;});
     document.querySelectorAll('nav a').forEach(a=>a.addEventListener('click',()=>document.getElementById('nav').classList.remove('open')));
   </script>
-<script defer src="/assets/enhancements.js"></script></body>
+<script defer src="/assets/enhancements.js"></script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "ff052920793642c4baed954aba1d867c"}'></script></body>
 </html>
