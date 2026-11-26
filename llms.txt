@@ -19,6 +19,8 @@
 - [FDX200 vs FDX400: Which Core Rig Fits | XIAORAN](https://www.xiaoranmachinery.cn/insights/fdx200-vs-fdx400-selection/): Compare the FDX200 and FDX400 wireline core rigs on depth capacity, weight, pullback, feed force and transport
 - [NTW, BTW and HTW Drilling Depth: How to Compare Core Rigs | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/ntw-btw-htw-drilling-depth/): Understand why NTW, BTW and HTW depth ratings differ, and compare exploration rigs by core diameter, formation
 - [Wireline vs Conventional Coring: How to Choose | XIAORAN](https://www.xiaoranmachinery.cn/insights/wireline-vs-conventional-coring/): How wireline and conventional coring differ in rod handling, cycle time and hole conditions, plus how to choos
+- [Man-Portable Drilling Rig Terrain Fit | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/man-portable-rig-terrain/): where man-portable rigs fit by terrain, access width and crew size.
+- [Core Recovery Rate Improvement in Fractured Formations | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/core-recovery-rate-improvement/): practical settings and bit choices to raise core recovery in broken ground.
 
 ## Guides — Water Well Drilling
 - [Borehole Development Steps: A Practical Guide | XIAORAN](https://www.xiaoranmachinery.cn/insights/borehole-development-steps/): Surging, air lifting, jetting, gravel pack, pump testing and disinfection: the steps that turn a drilled boreh
