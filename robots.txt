@@ -22,3 +22,4 @@ User-agent: Bytespider
 Allow: /
 
 Sitemap: https://www.xiaoranmachinery.cn/sitemap.xml
+Sitemap: https://www.xiaoranmachinery.cn/sitemap-videos.xml
