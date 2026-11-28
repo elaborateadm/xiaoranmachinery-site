@@ -40,7 +40,7 @@
 - [Skid Steer Rated Operating Capacity, Bucket Load and Attachment Weight | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/skid-steer-rated-operating-capacity-attachments/): How to compare rated load, material density and attachment mass when choosing a compact tracked loader.
 - [Tracked Skid Steer Loaders on Soft Ground: What to Check | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/tracked-skid-steer-soft-ground-track-selection/): A practical site checklist for traction, ground support, track wear and access when selecting compact tracked
 - [Wheeled vs Tracked Mini Skid Steer Loaders: Compare S and T Models | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/wheeled-vs-tracked-mini-skid-steer-model-comparison/): Compare paired S360/T360 through S490/T490 mini skid steer models by operating weight, rated load and publishe
-- [Post-Hole Augers on Skid Steers: Flow, Torque and Technique | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/auger-post-hole-attachment/): How measured auxiliary flow sets auger rpm, how torque demand limits hole diameter by soil, and the drilling sequence.
+- [Post-Hole Augers on Skid Steers: Flow, Torque, Technique | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/auger-post-hole-attachment/): How measured auxiliary flow sets auger rpm, how torque demand limits hole diameter by soil, and the drilling sequence.
 - [Loading a Skid Steer on a Trailer: Ramp and Tie-Down Rules | XIAORAN MACHINERY](https://www.xiaoranmachinery.cn/insights/skid-steer-trailer-loading-safety/): Deck payload, nose weight, ramp angle and four-point tie-down for 0.9-1.9 t compact loaders.
 
 ## Guides — Spider Cranes
